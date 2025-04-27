@@ -225,10 +225,6 @@ export default function ColorPaletteGenerator() {
           )}
         </div>
       </div>
-      
-      <div className="mt-8 text-center text-gray-500 text-sm relative z-10">
-        Made with ❤️ for color lovers
-      </div>
     </div>
   );
 }
